@@ -4,6 +4,8 @@ runtime: yaml
 resources:
   username:
     type: random:RandomPet
+    properties:
+      length: 4
 outputs:
   name: ${username.id}
 config:
