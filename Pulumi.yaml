@@ -1,4 +1,4 @@
-name: brave-xenon-loris
+name: brave-xenon-loriss
 description: A minimal Random Pulumi YAML program.
 runtime: yaml
 resources:
